@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F0kaP8RfAdmFMv/4Rj73aZz4MBl0Ba0q8Ey57CPeFVFc+Wj1p7fvxUXO65oLRTgTJ+pNxs1/XzPHCwfwb02rTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dylannnnnnn\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\FasterBuilding\\FasterBuilding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dylannnnnnn\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

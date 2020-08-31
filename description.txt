@@ -1,1 +1,3 @@
-Faster Building is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Faster Building allows you to change the build speed of your blocks!
+Go to config to set the scaling of how fast you want them placed.
+Config will affect ALL players.

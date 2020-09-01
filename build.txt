@@ -1,3 +1,4 @@
 displayName = Faster Building
 author = Ryan
-version = 1.0
+version = 1.0.1
+homepage = https://discord.gg/pT2BzSG

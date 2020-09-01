@@ -8,9 +8,13 @@ namespace FasterBuilding
 	{
 		public override float UseTimeMultiplier(Item item, Player player)
 		{
-            if (item.createTile > 0)
+            if (item.createTile > -1)
             {
                 return GetInstance<FasterBuildingConfig>().tilePlaceSpeed;
+            }
+			if (item.createWall > -1)
+            {
+                return GetInstance<FasterBuildingConfig>().wallPlaceSpeed;
             }
 			return 1f;
 		}

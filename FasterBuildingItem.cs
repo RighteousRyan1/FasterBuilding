@@ -12,7 +12,7 @@ namespace FasterBuilding
             {
                 return GetInstance<FasterBuildingConfig>().tilePlaceSpeed;
             }
-			if (item.createWall > -1)
+            if (item.createWall > -1)
             {
                 return GetInstance<FasterBuildingConfig>().wallPlaceSpeed;
             }
